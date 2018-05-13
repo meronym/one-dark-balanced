@@ -4,23 +4,27 @@
 	"colors": {
 		"list.activeSelectionBackground": "#363637",
 		"list.inactiveSelectionBackground": "#2a2d2e",
-		"editor.background": "#252526",
+		"editor.background": "#222224",
 		"editor.foreground": "#bbc3d1",
 		"editor.selectionBackground": "#363a40",
-		"editor.lineHighlightBackground": "#2d2d2e",
+		"editor.lineHighlightBackground": "#2d2d2f",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#383c44",
 		"editorIndentGuide.background": "#2d2d2e",
 		"editorIndentGuide.activeBackground": "#4c5d6f",
 		"editorSuggestWidget.selectedBackground": "#363a40",
 		"editorSuggestWidget.highlightForeground": "#5a8fc4",
-		"tab.activeBackground": "#252526",
-		"tab.inactiveBackground": "#19191a",
-		"editorGroupHeader.tabsBackground": "#19191a",
+		"tab.activeBackground": "#222224",
+		"tab.inactiveBackground": "#19191b",
+		"editorGroupHeader.tabsBackground": "#19191b",
 		"statusBar.foreground": "#7c7c7d",
-		"statusBar.background": "#19191a",
-		"sideBar.background": "#202021",
-		"sideBar.foreground": "#7c7c7d"
+		"statusBar.background": "#19191b",
+		"sideBar.background": "#1c1c1e",
+		"sideBar.foreground": "#707072",
+		"statusBar.debuggingBackground": "#98C379",
+		"statusBar.debuggingForeground": "#222224",
+		"statusBar.noFolderBackground": "#19191b",
+		"statusBar.noFolderForeground": "#7c7c7d"
 	},
 	"tokenColors": [
 		{
@@ -442,7 +446,7 @@
 			"name": "JSON Property",
 			"scope": "meta.structure.dictionary.json support.type.property-name",
 			"settings": {
-				"foreground": "#D19A66"
+				"foreground": "#61AFEF"
 			}
 		},
 		{
