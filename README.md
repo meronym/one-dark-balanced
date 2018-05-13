@@ -7,7 +7,7 @@ This extension is heavily inspired by [Josh Peng's One Dark theme](https://githu
 **Enjoy!**
 
 
-![One Dark Sublime Babel](https://raw.githubusercontent.com/joshpeng/One-Dark/master/images/onedark.gif)
+![One Dark Balanced](https://raw.githubusercontent.com/meronym/one-dark-balanced/master/images/one-dark-balanced.png)
 
 
 ## Changelog
